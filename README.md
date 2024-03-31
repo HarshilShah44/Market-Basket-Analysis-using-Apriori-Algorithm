@@ -25,14 +25,14 @@ This project aims to perform market basket analysis using Python. Market basket 
 
 4. Market Basket Analysis:
 
-Use the Apriori algorithm to identify frequent itemsets in the transactional data.
-Generate association rules based on the frequent itemsets to understand relationships between products.
-Use metrics such as support, confidence, and lift to evaluate the association rules and gain insights.
+- Use the Apriori algorithm to identify frequent itemsets in the transactional data.
+- Generate association rules based on the frequent itemsets to understand relationships between products.
+- Use metrics such as support, confidence, and lift to evaluate the association rules and gain insights.
 
 5. Interpretation:
 
-Analyze the association rules to identify meaningful patterns and relationships between products.
-Use the insights gained from the analysis to inform marketing strategies, product placements, and other business decisions.
+- Analyze the association rules to identify meaningful patterns and relationships between products.
+- Use the insights gained from the analysis to inform marketing strategies, product placements, and other business decisions.
 
 
 ## Files:
